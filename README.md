@@ -1,2 +1,2 @@
-# SQL
-Tasks from my studies
+# SQL - Tasks from my studies
+Subject: Databases
